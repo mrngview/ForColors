@@ -12,7 +12,6 @@ function randomColor() {
   color += randomRGB() + ','; // Red
   color += randomRGB() + ','; // Green
   color += randomRGB() + ')'; // Blue
-
   return color;
 }
 
